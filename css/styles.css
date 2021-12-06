@@ -1,0 +1,56 @@
+
+body
+{
+  background-color: powderblue;
+  margin:0;
+}
+h1
+{
+  margin:0;
+  font-family: "Cedarville Cursive";
+  font-size: 40px;
+}
+h2
+{
+  font-family: "Corinthia";
+  font-size: 40px;
+}
+h3
+{
+  font-family: "Corinthia";
+  font-size: 30px;
+}
+p
+{
+  font-family: "caveat";
+  font-size: 20px;
+}
+.top-container
+{
+  text-align: center;
+}
+.top-cloud
+{
+  margin-top: 50px;
+  margin-left: 400px;
+  position: relative;
+}
+.bottom-cloud
+{
+  position: absolute;
+}
+.machine-Learning
+{
+  height:158px;
+  width:158px;
+}
+.web-design
+  {
+    height:158px;
+    width:158px;
+  }
+  .profileimg
+  {
+    position: relative;
+    left:270px;
+  }
